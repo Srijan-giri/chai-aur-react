@@ -1,3 +1,0 @@
-# chai-aur-react
-
-test
